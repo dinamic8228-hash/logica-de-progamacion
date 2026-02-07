@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="determinar si un numero es par o impar/determinar si un numero es par o impar.vcxproj" Id="41146ef6-1267-45a7-afea-bca9b4978f62" />
+</Solution>

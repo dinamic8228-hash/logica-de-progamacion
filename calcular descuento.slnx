@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="calcular descuento/calcular descuento.vcxproj" Id="07741faf-8b31-426e-b3f9-a7e02d0907d1" />
+</Solution>
